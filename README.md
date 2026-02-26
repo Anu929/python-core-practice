@@ -39,6 +39,4 @@ This repository contains structured Python programs developed to strengthen fund
 - Dictionary and Set usage
 - Problem-solving logic
 
-## Purpose
 
-This repository is created as part of consistent coding practice to prepare for technical interviews and strengthen Python fundamentals.
